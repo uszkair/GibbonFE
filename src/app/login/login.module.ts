@@ -11,7 +11,7 @@ export const routerConfig = [
 ];
 
 @NgModule({
-  declarations: [],
+  declarations: [LoginComponent],
   imports: [
     NativeScriptCommonModule,
     NativeScriptRouterModule,
