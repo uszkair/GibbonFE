@@ -5,11 +5,11 @@ import { NativeScriptRouterModule } from "nativescript-angular/router";
 export const routes = [
     {
         path: "home",
-        loadChildren: "./pages/home/home.module#HomeModule"
+        loadChildren: "./home/home.module#HomeModule"
     },
     {
         path: "login",
-        loadChildren: "./pages/login/login.module#LoginModule"
+        loadChildren: "./login/login.module#LoginModule"
     },
     {
         path: "",
