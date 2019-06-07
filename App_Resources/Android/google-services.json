@@ -1,39 +1,44 @@
 {
   "project_info": {
-    "project_number": "33002893899",
-    "firebase_url": "https://car-rental-b26b7.firebaseio.com",
-    "project_id": "car-rental-b26b7",
-    "storage_bucket": "car-rental-b26b7.appspot.com"
+    "project_number": "912009371490",
+    "firebase_url": "https://gibbonfe-d3a2f.firebaseio.com",
+    "project_id": "gibbonfe-d3a2f",
+    "storage_bucket": "gibbonfe-d3a2f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:33002893899:android:1aa8448c56b58a16",
+        "mobilesdk_app_id": "1:912009371490:android:70fdbfae7714950b",
         "android_client_info": {
-          "package_name": "org.nativescript.GibbonFE"
+          "package_name": "hu.gibbon.GibbonFE"
         }
       },
       "oauth_client": [
         {
-          "client_id": "33002893899-9vqs9kk47iuj43ofml42tosba2f3rk2u.apps.googleusercontent.com",
+          "client_id": "912009371490-lisac1r16ikc1mvtaec53dqbtmtudjuv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCijF8lzSzSoCAAIjeiyR9IZBN6FEE8L4k"
+          "current_key": "AIzaSyAV_rIoj8eF4vuLmWDJma6vhw-n4KGra_U"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912009371490-lisac1r16ikc1mvtaec53dqbtmtudjuv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912009371490-u1jdh06q6r898aomd277f7nu78u1hji5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hu.gibbon.GibbonFE"
+              }
+            }
+          ]
         }
       }
     }

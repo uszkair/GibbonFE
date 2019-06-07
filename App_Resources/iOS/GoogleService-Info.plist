@@ -2,39 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
-	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>33002893899-tc7ct9av9cviej1onanmmq6pm5966j7u.apps.googleusercontent.com</string>
+	<string>912009371490-u1jdh06q6r898aomd277f7nu78u1hji5.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.33002893899-tc7ct9av9cviej1onanmmq6pm5966j7u</string>
+	<string>com.googleusercontent.apps.912009371490-u1jdh06q6r898aomd277f7nu78u1hji5</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCJ0KcyECoJpMIcdmJ-rMybLWcV7Ce1FNU</string>
+	<string>AIzaSyDGZNoD86-E0-4KCfCvLC2nlQiuEZQAJoA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>33002893899</string>
+	<string>912009371490</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>org.nativescript.GibbonFE</string>
+	<string>hu.gibbon.GibbonFE</string>
 	<key>PROJECT_ID</key>
-	<string>car-rental-b26b7</string>
+	<string>gibbonfe-d3a2f</string>
 	<key>STORAGE_BUCKET</key>
-	<string>car-rental-b26b7.appspot.com</string>
+	<string>gibbonfe-d3a2f.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true/>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false/>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:33002893899:ios:1aa8448c56b58a16</string>
+	<string>1:912009371490:ios:70fdbfae7714950b</string>
 	<key>DATABASE_URL</key>
-	<string>https://car-rental-b26b7.firebaseio.com</string>
+	<string>https://gibbonfe-d3a2f.firebaseio.com</string>
 </dict>
 </plist>
