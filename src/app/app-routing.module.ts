@@ -2,9 +2,21 @@ import { NgModule } from "@angular/core";
 import { Routes } from "@angular/router";
 import { NativeScriptRouterModule } from "nativescript-angular/router";
 
-const routes: Routes = [
-    { path: "", redirectTo: "/cars", pathMatch: "full" },
-    { path: "home", loadChildren: "~/app/cars/cars.module#CarsModule" }
+export const routes = [
+    {
+        path: "home",
+        loadChildren: "./pages/home/home.module#HomeModule"
+    },
+    {
+        path: "login",
+        loadChildren: "./pages/login/login.module#LoginModule"
+    },
+    {
+        path: "",
+        redirectTo: "login",
+        pathMatch: "full"
+    }
+
 ];
 
 @NgModule({
